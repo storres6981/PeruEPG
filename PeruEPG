@@ -1,0 +1,2706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="movistar.com.pe" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten">
+
+
+-<channels>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RBC" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_10" update="i">RBC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV+" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_17" update="i">ATV+</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ID-Investigation Discovery" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_29" update="i">ID-Investigation Discovery</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fx_HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_210" update="i">Fx_HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_211" update="i">A&E HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_1__LOCATION_Lima__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fx_HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_210" update="i">Fx_HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_211" update="i">A&E HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ID-Investigation Discovery" site_id="LOCATIONID_2__LOCATION_Arequipa__CHANNELID_29" update="i">ID-Investigation Discovery</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fx_HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_210" update="i">Fx_HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_211" update="i">A&E HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_3__LOCATION_Chiclayo__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fx_HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_210" update="i">Fx_HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_211" update="i">A&E HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_4__LOCATION_Piura__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ID-Investigation Discovery" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_29" update="i">ID-Investigation Discovery</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fx_HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_210" update="i">Fx_HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_211" update="i">A&E HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_5__LOCATION_Cusco__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_6__LOCATION_Huancayo__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_7__LOCATION_Chimbote__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_1" update="i">Latina</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_2" update="i">CMD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_3" update="i">América TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_4" update="i">Panamericana TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_5" update="i">Plus TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_6" update="i">TV Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal N" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_7" update="i">Canal N</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_8" update="i">ATV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="RPP TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_9" update="i">RPP TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Peru 7.3" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_263" update="i">TV Peru 7.3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Global TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_12" update="i">Global TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Yups" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_13" update="i">Yups</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal de las Estrellas" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_14" update="i">Canal de las Estrellas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TL Novelas" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_11" update="i">TL Novelas</channel>
+
+<channel site="movistar.com.pe" xmltv_id="La Tele Perú" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_16" update="i">La Tele Perú</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Willax" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_18" update="i">Willax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_15" update="i">TNT</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_20" update="i">Sony</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_21" update="i">Warner</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_22" update="i">Fox Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_23" update="i">AXN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_24" update="i">Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TBS Veryfunny" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_206" update="i">TBS Veryfunny</channel>
+
+<channel site="movistar.com.pe" xmltv_id="A&E" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_25" update="i">A&E</channel>
+
+<channel site="movistar.com.pe" xmltv_id="FX" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_26" update="i">FX</channel>
+
+<channel site="movistar.com.pe" xmltv_id="SyFy" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_27" update="i">SyFy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Lifetime" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_114" update="i">Lifetime</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Entertainment" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_28" update="i">BBC Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_30" update="i">Tru TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TCM" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_31" update="i">TCM</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_32" update="i">Space</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_33" update="i">AMC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="I.Sat" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_34" update="i">I.Sat</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_35" update="i">Film Zone</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_36" update="i">Golden</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Studio Universal" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_37" update="i">Studio Universal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="De Película" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_38" update="i">De Película</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Europa Europa" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_39" update="i">Europa Europa</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Eurochannel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_40" update="i">Eurochannel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden Edge" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_138" update="i">Golden Edge</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_41" update="i">Cinecanal</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_42" update="i">Cinemax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_46" update="i">HBO</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Signature" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_44" update="i">HBO Signature</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Family" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_45" update="i">HBO Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO 2" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_43" update="i">HBO 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_47" update="i">Max</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Oeste" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_48" update="i">HBO Plus Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO Plus Este" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_49" update="i">HBO Plus Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Oeste" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_50" update="i">Max Prime Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime Este" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_51" update="i">Max Prime Este</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_55" update="i">Fox 1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 Oeste" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_56" update="i">Fox 1 Oeste</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_57" update="i">Fox Family</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Comedy" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_58" update="i">Fox Comedy</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_59" update="i">Fox Action</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Cinema" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_60" update="i">Fox Cinema</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Movies" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_61" update="i">Fox Movies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Classics" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_62" update="i">Fox Classics</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_63" update="i">Discovery Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_64" update="i">History Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_65" update="i">National Geographic</channel>
+
+<channel site="movistar.com.pe" xmltv_id="H2" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_67" update="i">H2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT Series" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_69" update="i">TNT Series</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film & Arts" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_70" update="i">Film & Arts</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Science" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_71" update="i">Discovery Science</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Civilization" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_66" update="i">Discovery Civilization</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Turbo" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_98" update="i">Discovery Turbo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_72" update="i">E! Entertainment</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TLC" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_68" update="i">TLC</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_73" update="i">Home & Health</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fusion" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_238" update="i">Fusion</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Gourmet" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_74" update="i">El Gourmet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Mundo Fox" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_75" update="i">Mundo Fox</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Casa Club" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_77" update="i">Casa Club</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Life" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_78" update="i">Fox Life</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Glitz" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_79" update="i">Glitz</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telemundo" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_152" update="i">Telemundo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cartoon Network" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_81" update="i">Cartoon Network</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_82" update="i">Discovery Kids</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney XD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_83" update="i">Disney XD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Boomerang" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_84" update="i">Boomerang</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nickelodeon" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_85" update="i">Nickelodeon</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Channel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_86" update="i">Disney Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Animal Planet" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_87" update="i">Animal Planet</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney Junior" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_88" update="i">Disney Junior</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC Cbeebies" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_89" update="i">BBC Cbeebies</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports Premium" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_266" update="i">Fox Sports Premium</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_91" update="i">Fox Sports 2</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 3" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_97" update="i">Fox Sports 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_92" update="i">ESPN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN +" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_93" update="i">ESPN +</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_94" update="i">ESPN 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Gol TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_96" update="i">Gol TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golf Channel" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_95" update="i">Golf Channel</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Toros TV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_100" update="i">Toros TV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Wobi" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_101" update="i">Wobi</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Español" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_102" update="i">CNN Español</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CNN Internacional" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_103" update="i">CNN Internacional</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC World News" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_104" update="i">BBC World News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox News" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_105" update="i">Fox News</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Bloomberg" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_106" update="i">Bloomberg</channel>
+
+<channel site="movistar.com.pe" xmltv_id="EWTN-Pax" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_241" update="i">EWTN-Pax</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Enlace TBN" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_109" update="i">Enlace TBN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_110" update="i">MTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Hits" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_111" update="i">MTV Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_113" update="i">VH1</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HTV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_115" update="i">HTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Ritmoson" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_116" update="i">Ritmoson</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Movistar 3D" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_117" update="i">Movistar 3D</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Latina HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_177" update="i">Latina HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CMD HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_118" update="i">CMD HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="América TV HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_178" update="i">América TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Panamericana HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_253" update="i">Panamericana HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Plus TV HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_119" update="i">Plus TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Perú HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_120" update="i">TV Perú HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ATV HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_121" update="i">ATV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Nat Geo HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_122" update="i">Fox Nat Geo HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_179" update="i">Sony HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_180" update="i">Warner Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_181" update="i">AXN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Universal HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_182" update="i">Universal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="BBC HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_183" update="i">BBC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tru TV HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_184" update="i">Tru TV HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_186" update="i">TNT HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_254" update="i">Film Zone HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Space HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_130" update="i">Space HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AMC HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_131" update="i">AMC HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Golden HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_215" update="i">Golden HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_132" update="i">Cinecanal HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sundance Channel HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_257" update="i">Sundance Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_125" update="i">ESPN HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ESPN 3 HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_185" update="i">ESPN 3 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_126" update="i">Fox Sports HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Sports 2 HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_262" update="i">Fox Sports 2 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Theater HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_123" update="i">Discovery Theater HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nat Geo Wild HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_124" update="i">Nat Geo Wild HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="History Channel HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_212" update="i">History Channel HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Canal De Las Estrellas HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_256" update="i">Canal De Las Estrellas HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery World HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_127" update="i">Discovery World HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Home & Health HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_258" update="i">Home & Health HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Kids HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_259" update="i">Discovery Kids HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Disney HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_260" update="i">Disney HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV Live HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_128" update="i">MTV Live HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telehit HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_261" update="i">Telehit HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="HBO HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_52" update="i">HBO HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Up" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_53" update="i">Max Up</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Hbo Family HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_187" update="i">Hbo Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Max Prime HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_251" update="i">Max Prime HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox 1 HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_54" update="i">Fox 1 HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Action HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_175" update="i">Fox Action HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Family HD" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_188" update="i">Fox Family HD</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Azteca" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_133" update="i">TV Azteca</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Globo" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_134" update="i">TV Globo</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telefe" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_135" update="i">Telefe</channel>
+
+<channel site="movistar.com.pe" xmltv_id="El Trece" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_136" update="i">El Trece</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV Chile" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_137" update="i">TV Chile</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Telesur" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_139" update="i">Telesur</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nuestra Tele" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_140" update="i">Nuestra Tele</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TVE" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_141" update="i">TVE</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Antena 3" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_142" update="i">Antena 3</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TV5" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_147" update="i">TV5</channel>
+
+<channel site="movistar.com.pe" xmltv_id="NHK" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_148" update="i">NHK</channel>
+
+<channel site="movistar.com.pe" xmltv_id="CCTV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_149" update="i">CCTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="ARTV" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_150" update="i">ARTV</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VOA" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_151" update="i">VOA</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Nick Jr." site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_158" update="i">Nick Jr.</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Tooncast" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_159" update="i">Tooncast</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Discovery Channel (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_225" update="i">Discovery Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="National Geographic (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_227" update="i">National Geographic (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="E! Entertainment (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_217" update="i">E! Entertainment (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="MTV (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_240" update="i">MTV (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="VH1 Mega Hits" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_234" update="i">VH1 Mega Hits</channel>
+
+<channel site="movistar.com.pe" xmltv_id="24 Horas TVN" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_154" update="i">24 Horas TVN</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TYC Sports" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_165" update="i">TYC Sports</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Warner Channel (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_224" update="i">Warner Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Fox Channel (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_218" update="i">Fox Channel (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Sony (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_220" update="i">Sony (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="AXN (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_216" update="i">AXN (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="TNT (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_223" update="i">TNT (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Film Zone (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_222" update="i">Film Zone (Satelital)</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinecanal Norte" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_228" update="i">Cinecanal Norte</channel>
+
+<channel site="movistar.com.pe" xmltv_id="Cinemax (Satelital)" site_id="LOCATIONID_8__LOCATION_Trujillo__CHANNELID_239" update="i">Cinemax (Satelital)</channel>
+
+</channels>
+
+</site>
